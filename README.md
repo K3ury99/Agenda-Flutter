@@ -10,7 +10,7 @@
 # 🗝 How to use it  
 You just have to download the zip file that is at the beginning of this repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "Flutter run -d Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
-✨ Features
+#✨ Features
 
 ✅ Add, edit, and delete notes
 ✅ Organized tab navigation (Lists, Notes, Profiles)
