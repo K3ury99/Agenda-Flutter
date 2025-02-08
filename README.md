@@ -1,4 +1,4 @@
-# 🚀 Agenda-Flutter
+# 🚀 Notes-Flutter
 > [!TIP]  
 > This is a project of a web page created in flutter using dart as the language.
 
