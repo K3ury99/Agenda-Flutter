@@ -1,6 +1,6 @@
 # 🚀 Agenda-Flutter
 > [!TIP]  
-> This is a project of a web page replica created in flutter using dart as the language.
+> This is a project of a web page created in flutter using dart as the language.
 
 <div style="display: flex;">
   <img src="https://github.com/user-attachments/assets/f97c4851-d712-4475-900b-b41f09d4a41b" width="49%"></img>   
