@@ -7,6 +7,8 @@
   <img src="https://github.com/user-attachments/assets/99164677-5620-4dbb-999f-7874391e5f4c" width="49%"></img> 
 </div>
 
+---
+
 # 🗝 How to use it  
 You just have to download the zip file that is at the beginning of this repository, and open the folder in Visual Studio Code, once there a terminal opens and you type "Flutter run -d Edge", this will start loading commands allowing you to visualize the project in the Edge browser.
 
