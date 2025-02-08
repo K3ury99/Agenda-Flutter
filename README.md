@@ -29,7 +29,7 @@ You just have to download the zip file that is at the beginning of this reposito
   git commit -am 'Add new feature'
 
 # 🌠 Final Notes
-Thank you for visiting this project!Thank you for visiting this project!🌌
+Thank you for visiting this project!🌌
 
 ## 📔 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
