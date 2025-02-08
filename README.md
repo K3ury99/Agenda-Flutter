@@ -19,9 +19,6 @@ You just have to download the zip file that is at the beginning of this reposito
 ✅ User profile display
 ✅ Intuitive and modern UI
 
-# 🌠 Final Notes
-Thank you for visiting this project!Thank you for visiting this project!🌌
-
 # 🐱‍👤 Contributing
 1. **Fork the repo**
 - **Create a new branch**
@@ -30,6 +27,9 @@ Thank you for visiting this project!Thank you for visiting this project!🌌
 - **Commit changes**
    ```bash
   git commit -am 'Add new feature'
+
+# 🌠 Final Notes
+Thank you for visiting this project!Thank you for visiting this project!🌌
 
 ## 📔 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
